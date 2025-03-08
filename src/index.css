@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://cdn.pixabay.com/photo/2023/04/21/16/08/person-7943326_1280.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
 }
 
 code {
