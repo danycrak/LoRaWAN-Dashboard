@@ -96,7 +96,7 @@ export default function LoRaWANDashboard() {
         </ResponsiveContainer>
         
         {/* 🏢 Logo */}
-        <img src={logo} alt="Logo" className="absolute bottom-4 right-4 w-10 h-10 opacity-100" />
+        <img src={logo} alt="Logo" className="relative bottom-4 right-4 w-10 h-10 opacity-100" />
 
 
       </div>
